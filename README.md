@@ -32,17 +32,15 @@ Three of the most popular models are as follows:
 
 __Plan:__
 1. Load dataset of garbage images
-2. Prepare data:
-
-  1. Change the input shapes of data to be consistent
-  2. Normilize it
-  3. Prepare classification labels array
-  4. Split data on train and split sets
-  5. Implement a few different models and try to fit model to it
-
-3. Choose the best model
-4. Classify test data and count model accuracy
-5. Summarize the work with some insights, explain how it is could be implemented in a real-world problem
+1. Prepare data:
+    1. Change the input shapes of data to be consistent
+    1. Normilize it
+    1. Prepare classification labels array
+    1. Split data on train and split sets
+    1. Implement a few different models and try to fit model to it
+1. Choose the best model
+1. Classify test data and count model accuracy
+1. Summarize the work with some insights, explain how it is could be implemented in a real-world problem
 
 __Objective:__
 By the end of the project we expect a Neural Network model classifying a garbage to one of the 6 given above garbage type with accuracy more than 90%. It can be a complicated challenge due to the fact that provided dataset seems to be difficult to classify. Also number of images
