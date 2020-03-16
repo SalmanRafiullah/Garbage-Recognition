@@ -1,7 +1,8 @@
 # Garbage-Recognition
 Capstone project for NEU EAI6000 - Identify the type of garbage using Neural Networks
 
-__Group members:__ 1. Fedor Grab
+__Group members:__
+1. Fedor Grab
 2. Salman Rafiullah
 3. Jing Lou
 
@@ -10,13 +11,14 @@ Classify which type of garbage is provided on the image. This is an image recogn
 
 __Dataset:__
 [Publicy available](https://www.kaggle.com/asdasdasasdas/garbage-classification)
+
 It consists of 6 different classes of garbage:
 1. Cardboard (393)
-2. Glass (491)
-3. Metal (400)
-4. Paper (584)
-5. Plastic (472)
-6. Trash (127)
+1. Glass (491)
+1. Metal (400)
+1. Paper (584)
+1. Plastic (472)
+1. Trash (127)
 
 __Summary:__
 There are a total of 2467 images.
@@ -26,8 +28,8 @@ To solve this task it is a good idea to use [Transfer Learning (TL)](https://mac
 Three of the most popular models are as follows:
 
 1. VGG (e.g. [VGG16](https://www.kaggle.com/keras/vgg16) or [VGG19](https://www.kaggle.com/keras/vgg19)).
-2. GoogLeNet (e.g. [InceptionV3](https://software.intel.com/en-us/articles/inception-v3-deep-convolutional-architecture-for-classifying-acute-myeloidlymphoblastic)).
-3. Residual Network (e.g. [ResNet50](https://www.kaggle.com/keras/resnet50)).
+1. GoogLeNet (e.g. [InceptionV3](https://software.intel.com/en-us/articles/inception-v3-deep-convolutional-architecture-for-classifying-acute-myeloidlymphoblastic)).
+1. Residual Network (e.g. [ResNet50](https://www.kaggle.com/keras/resnet50)).
 
 __Plan:__
 1. Load dataset of garbage images
