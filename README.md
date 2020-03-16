@@ -1,8 +1,7 @@
 # Garbage-Recognition
 Capstone project for NEU EAI6000 - Identify the type of garbage using Neural Networks
 
-__Group members:__
-1. Fedor Grab
+__Group members:__ 1. Fedor Grab
 2. Salman Rafiullah
 3. Jing Lou
 
