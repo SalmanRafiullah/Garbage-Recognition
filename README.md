@@ -15,7 +15,7 @@ To solve this task it is a good idea to use [Transfer Learning (TL)](https://mac
 
 Three of the most popular models are as follows:
 
-VGG (e.g. VGG16 or VGG19).
+VGG (e.g. [VGG16](https://www.kaggle.com/keras/vgg16) or [VGG19](https://www.kaggle.com/keras/vgg19)).\n
 GoogLeNet (e.g. InceptionV3).
 Residual Network (e.g. ResNet50).
 Plan:
