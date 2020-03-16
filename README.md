@@ -2,14 +2,26 @@
 Capstone project for NEU EAI6000 to identify the type of garbage using Neural Networks
 
 EAI6000 capstone project
-Group members: \ Fedor Grab \ Salman Rafiullah \ Jing Lou
+__Group members:__
+1. Fedor Grab
+2. Salman Rafiullah
+3. Jing Lou
 
-Goal:
+__Goal:__
 Classify which type of garbage is provided on the image. This is an image recognition task
 
-Publicy available dataset
+__Dataset:__
+[Publicy available](https://www.kaggle.com/asdasdasasdas/garbage-classification)
 
-It consists of 6 different classes of garbage: cardboard (393), glass (491), metal (400), paper(584), plastic (472) and trash(127). Summary 2467 images.
+It consists of 6 different classes of garbage:
+1. Cardboard (393)
+2. Glass (491)
+3. Metal (400)
+4. Paper (584)
+5. Plastic (472)
+6. Trash (127)
+
+__Summary__ 2467 images.
 
 To solve this task it is a good idea to use [Transfer Learning (TL)](https://machinelearningmastery.com/how-to-use-transfer-learning-when-developing-convolutional-neural-network-models/). TL is a technique when already developed and trained models for a one type of classification problem are used to solve different classification problem.
 
